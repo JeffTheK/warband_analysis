@@ -1,5 +1,17 @@
 # Design Document
 
+
+
+- [ ] Factions
+  - [ ] Kingdom of Swadia
+  - [ ] Kingdom of Nords
+  - [ ] Kingdom of Vaegirs
+  - [ ] Kingdom of Rhodoks
+  - [ ] Khergit Khanate
+  - [ ] Sarranid Sultanate
+
+
+
 - [ ] Units - mention the best and most interesting units
 
   
