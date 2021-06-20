@@ -17,26 +17,33 @@
 
 
 - [ ] Combat
-
   - [ ] two handed
-
   - [ ] one handed
-
   - [ ] polearm
-
   - [ ] bow
-
   - [ ] crossbow
-
   - [ ] throwing
-
   - [ ] on horse
-
   - [ ] on foot
-
   - [ ] auto battle
 
-    
+
+
+- [ ] Mechanics
+  - [ ] tournaments
+  - [ ] arenas
+  - [ ] sieges
+  - [ ] morale
+  - [ ] honor
+  - [ ] relations
+  - [ ] productive enterprise
+  - [ ] fiefs
+  - [ ] trading
+  - [ ] prisoners & ransom
+  - [ ] looting
+  - [ ] bandits
+  - [ ] hostile encounters in cities and villages
+  - [ ] cheats
 
 
 
