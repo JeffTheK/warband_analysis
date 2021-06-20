@@ -47,6 +47,35 @@
 
 
 
+- [ ] Skills
+  - [ ] Ironflesh
+  - [ ] Power Striker
+  - [ ] Power Throw
+  - [ ] Weapon Master
+  - [ ] Shield
+  - [ ] Athletics
+  - [ ] Riding
+  - [ ] Horse Archery
+  - [ ] Looting
+  - [ ] Trainer
+  - [ ] Tracking
+  - [ ] Tactics
+  - [ ] Path-finding
+  - [ ] Spotting
+  - [ ] Inventory Management
+  - [ ] Wound Treatment
+  - [ ] Surgery
+  - [ ] First Aid
+  - [ ] Engineer
+  - [ ] Persuasion
+  - [ ] Prisoner Management
+  - [ ] Leadership
+  - [ ] Trade
+
+
+
+
+
 - [ ] Factions
   - [ ] Kingdom of Swadia
   - [ ] Kingdom of Nords
