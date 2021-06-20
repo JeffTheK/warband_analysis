@@ -35,3 +35,8 @@
   - [ ] Swadian Sharpshooters
   - [ ] Mercenary Crossbowmen
 
+  
+
+  Horse Archers	
+
+  - [ ] Khergit Veteran Horse Archers
