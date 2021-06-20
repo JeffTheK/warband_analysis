@@ -13,7 +13,7 @@
 
   
 
-  Foot Melee
+  Infantry
 
   - [ ] Nord Huscarl - the strongest melee unit
   - [ ] Rhodok Sergeant
