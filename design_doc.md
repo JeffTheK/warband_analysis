@@ -40,3 +40,20 @@
   Horse Archers	
 
   - [ ] Khergit Veteran Horse Archers
+
+
+
+- [ ] Mods
+
+  
+
+  Big Modes
+
+  - [ ] Prophecy of Pendor
+  - [ ] Gekokujo
+  - [ ] The Last Days of the Third Age
+  - [ ] Brytenwalda
+  - [ ] Nova Aetas
+  - [ ] Sands of Faith
+  - [ ] Clash of Kings
+  - [ ] Warsword Conquest
