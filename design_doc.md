@@ -31,5 +31,7 @@
 
   Crossbow
 
-  - [ ] 
+  - [ ] Rhodok Sharpshooters
+  - [ ] Swadian Sharpshooters
+  - [ ] Mercenary Crossbowmen
 
