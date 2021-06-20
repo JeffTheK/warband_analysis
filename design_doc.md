@@ -2,6 +2,14 @@
 
 
 
+- [ ] Weapons
+  - [ ] two handed
+  - [ ] one handed
+  - [ ] polearm
+  - [ ] range
+
+
+
 - [ ] Combat
 
   - [ ] two handed
@@ -19,6 +27,8 @@
   - [ ] on horse
 
   - [ ] on foot
+
+  - [ ] auto battle
 
     
 
