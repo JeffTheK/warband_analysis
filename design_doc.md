@@ -10,6 +10,12 @@
 
 
 
+- [ ] Armor
+  - [ ] body
+  - [ ] shields
+
+
+
 - [ ] Combat
 
   - [ ] two handed
