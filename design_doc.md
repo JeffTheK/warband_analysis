@@ -2,6 +2,28 @@
 
 
 
+- [ ] Combat
+
+  - [ ] two handed
+
+  - [ ] one handed
+
+  - [ ] polearm
+
+  - [ ] bow
+
+  - [ ] crossbow
+
+  - [ ] throwing
+
+  - [ ] on horse
+
+  - [ ] on foot
+
+    
+
+
+
 - [ ] Factions
   - [ ] Kingdom of Swadia
   - [ ] Kingdom of Nords
