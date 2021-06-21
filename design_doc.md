@@ -48,7 +48,7 @@
 
 
 - [ ] Skills
-  - [ ] Ironflesh
+  - [x] Ironflesh
   - [ ] Power Striker
   - [ ] Power Throw
   - [ ] Weapon Master
