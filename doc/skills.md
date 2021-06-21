@@ -15,3 +15,8 @@ Type: `personal`. Attribute: `strength`. Increases throwing damage by 10%. Some 
 ## Power Draw
 
 Type: `personal`. Attribute: `strength`. Power Draw adds 14% to each hit with the bow, until four levels beyond the bow’s minimum Power Draw requirement. Also higher Power Draw makes powerful bows easier to use by improving your accuracy. If you want to be an archer make sure you have at least 5 points into this. I recommend bumping it up to level 7 and then you can basically one shot almost all the enemy units. The best bows in the game require level 4 or 5. Archers with big power draw can deal massive damage.
+
+## Weapon Master
+
+Type: `personal`. Attribute: `agility`. Adds 40 points to your weapon proficiency limits. Beyond this limit, you cannot increase weapon proficiencies by investing points into them. Weapon proficiencies can also be increased with practice, even beyond the limit set by Weapon Mastery, but the rate of increase will slow down as you get further from the limit. You can easily skip this one, but I still think you can have at least 3 points just to make the weapons better and faster. Probably the second most important skill for melee after the power strike. If you are an archer, you can live without it and deal with a little bit of less accuracy, since you will have less weapon proficiency.
+

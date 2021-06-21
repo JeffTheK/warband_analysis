@@ -52,7 +52,7 @@
   - [x] Power Strike
   - [x] Power Throw
   - [x] Power Draw
-  - [ ] Weapon Master
+  - [x] Weapon Master
   - [ ] Shield
   - [ ] Athletics
   - [ ] Riding
