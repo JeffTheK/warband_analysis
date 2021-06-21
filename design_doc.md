@@ -49,7 +49,7 @@
 
 - [ ] Skills
   - [x] Ironflesh
-  - [ ] Power Striker
+  - [x] Power Striker
   - [ ] Power Throw
   - [ ] Weapon Master
   - [ ] Shield
