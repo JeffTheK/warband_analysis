@@ -51,6 +51,7 @@
   - [x] Ironflesh
   - [x] Power Strike
   - [x] Power Throw
+  - [x] Power Draw
   - [ ] Weapon Master
   - [ ] Shield
   - [ ] Athletics
