@@ -50,7 +50,7 @@
 - [ ] Skills
   - [x] Ironflesh
   - [x] Power Strike
-  - [ ] Power Throw
+  - [x] Power Throw
   - [ ] Weapon Master
   - [ ] Shield
   - [ ] Athletics
