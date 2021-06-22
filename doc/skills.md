@@ -23,3 +23,7 @@ Type: `personal`. Attribute: `agility`. Adds 40 points to your weapon proficienc
 ## Shield
 
 Type: `personal`. Attribute: `agility`. Each point reduces the damage to your shield takes when blocking a hit by 8%. It also increases your shield’s effective size versus ranged attacks and improves how quickly you can block with a shield. Putting more than 3 points into this one is probably useless, but having at least two is good, since shields are the only way to safely avoid enemy projectiles. Even if two handed combat is used, I still suggest to have a shield and one level in this skill.
+
+## Athletics
+
+Type: `personal`. Attribute: `agility`. Increases your base running speed, but not too much. Use this only if you're planning on to fight on foot. Small difference in levels makes this skill not very useful, so much, that I don't recommend to use it at all even if you are a ground fighter.

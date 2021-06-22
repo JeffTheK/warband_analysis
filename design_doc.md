@@ -54,7 +54,7 @@
   - [x] Power Draw
   - [x] Weapon Master
   - [x] Shield
-  - [ ] Athletics
+  - [x] Athletics
   - [ ] Riding
   - [ ] Horse Archery
   - [ ] Looting
