@@ -53,7 +53,7 @@
   - [x] Power Throw
   - [x] Power Draw
   - [x] Weapon Master
-  - [ ] Shield
+  - [x] Shield
   - [ ] Athletics
   - [ ] Riding
   - [ ] Horse Archery
