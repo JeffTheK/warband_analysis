@@ -55,7 +55,7 @@
   - [x] Weapon Master
   - [x] Shield
   - [x] Athletics
-  - [ ] Riding
+  - [x] Riding
   - [ ] Horse Archery
   - [ ] Looting
   - [ ] Trainer

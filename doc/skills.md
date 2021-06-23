@@ -27,3 +27,8 @@ Type: `personal`. Attribute: `agility`. Each point reduces the damage to your sh
 ## Athletics
 
 Type: `personal`. Attribute: `agility`. Increases your base running speed, but not too much. Use this only if you're planning on to fight on foot. Small difference in levels makes this skill not very useful, so much, that I don't recommend to use it at all even if you are a ground fighter.
+
+## Riding
+
+Type: `personal`. Attribute: `agility`. Most horses have a minimum riding requirement; this skill also increases your speed and agility while sitting astride a steed, but only up to a certain point. An essential skill for melee horse fighters. Level up to 4 to be able to ride the fastest horses, you can go one step forward and have the most armored ones. I put at least 4 points into this skill. Useless if you are not planning to utilize them.
+
