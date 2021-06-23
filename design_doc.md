@@ -56,7 +56,7 @@
   - [x] Shield
   - [x] Athletics
   - [x] Riding
-  - [ ] Horse Archery
+  - [x] Horse Archery
   - [ ] Looting
   - [ ] Trainer
   - [ ] Tracking

@@ -32,3 +32,6 @@ Type: `personal`. Attribute: `agility`. Increases your base running speed, but n
 
 Type: `personal`. Attribute: `agility`. Most horses have a minimum riding requirement; this skill also increases your speed and agility while sitting astride a steed, but only up to a certain point. An essential skill for melee horse fighters. Level up to 4 to be able to ride the fastest horses, you can go one step forward and have the most armored ones. I put at least 4 points into this skill. Useless if you are not planning to utilize them.
 
+# Horse Archery
+
+Type: `personal`. Attribute: `agility`. If horse archery is your thing, then you will absolutely need this skill, since you have penalty for firing while mounted.  Reduces accuracy and damage penalties for using a ranged weapon from a moving horse. Note that no penalties are applied if you are mounted but not moving. If you plan on firing while mounted, then put a few points into this.
