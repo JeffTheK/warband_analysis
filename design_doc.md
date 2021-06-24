@@ -57,7 +57,7 @@
   - [x] Athletics
   - [x] Riding
   - [x] Horse Archery
-  - [ ] Looting
+  - [x] Looting
   - [ ] Trainer
   - [ ] Tracking
   - [ ] Tactics
